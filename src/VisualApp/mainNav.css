@@ -1,0 +1,33 @@
+.head{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 32px;
+    left: 500px;
+}
+.body{
+    display: block;
+    top: 180px;
+}
+.logo{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.06em;
+    text-decoration: underline #18C4FF 2px;
+}
+a{
+    outline: none;
+    text-decoration: none;
+    color: black;
+
+    padding-left: 74px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 13px;
+}

@@ -1,0 +1,57 @@
+.mFooter{
+    position: absolute;
+    width: 100%;
+    height: 450px;
+    left: 0;
+    top: 2644px;
+
+    background: rgba(30, 30, 30, 0.91);
+}
+.map{
+    position: absolute;
+    width: 428px;
+    height: 365px;
+    left: 380px;
+    top: 42px;
+}
+.inf{
+    position: absolute;
+    left: 900px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.06em;
+
+    color: #FFFFFF;
+}
+.tel{
+    position: absolute;
+    width: 290px;
+    height: 30px;
+
+    top: 72px;
+}
+.tel2{
+    position: absolute;
+    width: 152px;
+    height: 15px;
+
+    top: 138px;
+}
+.price{
+    position: absolute;
+    width: 358px;
+    height: 58px;
+
+    top: 174px;
+}
+.terrain{
+    position: absolute;
+    width: 287px;
+    height: 30px;
+
+    top: 293px;
+}

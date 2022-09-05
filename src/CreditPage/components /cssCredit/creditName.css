@@ -1,0 +1,174 @@
+.creditName{
+    position: absolute;
+    width: 133px;
+    height: 38px;
+    left: 772px;
+    top: 90px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    border-bottom: 2px solid #18C4FF;
+}
+.anyPur{
+    position: absolute;
+    width: 570px;
+    height: 450px;
+    left: 250px;
+    top: 200px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+.refinan{
+    position: absolute;
+    width: 570px;
+    height: 450px;
+    left: 850px;
+    top: 200px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+.education{
+    position: absolute;
+    width: 570px;
+    height: 450px;
+    left: 250px;
+    top: 680px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+.mentlan{
+    position: absolute;
+    width: 570px;
+    height: 450px;
+    left: 850px;
+    top: 680px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+.h1Cre{
+    position: absolute;
+    width: 288px;
+    height: 28px;
+    left: 140px;
+    top: 28px;
+    white-space: nowrap;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.06em;
+}
+.h2Cre{
+    position: absolute;
+    width: 368px;
+    height: 28px;
+    left: 105px;
+    top: 28px;
+    white-space: nowrap;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.06em;
+}
+.h3Cre{
+    position: absolute;
+    width: 522px;
+    height: 28px;
+    left: 25px;
+    top: 28px;
+    white-space: nowrap;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.06em;
+}
+.pCre{
+    position: absolute;
+    width: 366px;
+    height: 44px;
+    left: 100px;
+    top: 72px;
+    white-space: nowrap;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.06em;
+}
+.pCre1{
+    position: absolute;
+    width: 366px;
+    height: 44px;
+    left: 100px;
+    top: 100px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.06em;
+}
+.imgCre{
+    position: absolute;
+    width: 313px;
+    height: 163px;
+    left: 130px;
+    top: 150px;
+}
+.butCre{
+    position: absolute;
+    width: 180px;
+    height: 45px;
+    left: 200px;
+    top: 350px;
+
+    background-color: transparent;
+    border-radius: 10px;
+    border: 1px solid #000000;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.06em;
+}
+.linkCre{
+    position: absolute;
+    width: 91px;
+    height: 17px;
+    left: 180px;
+    top: 410px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.06em;
+}

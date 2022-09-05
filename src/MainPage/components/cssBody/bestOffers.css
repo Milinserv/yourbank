@@ -1,0 +1,132 @@
+.offers{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+
+    top: 1760px;
+    left: 310px;
+}
+.hOf{
+    position: absolute;
+    white-space: nowrap;
+    left: 8px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    letter-spacing: 0.06em;
+}
+.offerBut {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+
+    left: 350px;
+    white-space: nowrap;
+
+    width: 126px;
+    height: 29px;
+
+    top: 100px;
+}
+.butOf{
+    border: none;
+    background-color: transparent;
+    outline: none;
+
+    padding-left: 67px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.06em;
+}
+.offerCards{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+
+    top: 1700px;
+    left: 90px;
+}
+.card1{
+    position: absolute;
+    width: 514px;
+    height: 272px;
+    left: 227px;
+    top: 201px;
+
+    background: #FFFFFF;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.card2{
+    position: absolute;
+    width: 514px;
+    height: 272px;
+    left: 775px;
+    top: 201px;
+
+    background: rgba(255, 249, 95, 0.1);
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.card3{
+    position: absolute;
+    width: 514px;
+    height: 272px;
+    left: 227px;
+    top: 507px;
+
+    background: rgba(167, 125, 255, 0.15);
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.card4{
+    position: absolute;
+    width: 514px;
+    height: 272px;
+    left: 775px;
+    top: 507px;
+
+    background: #FFFFFF;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.textH{
+    position: absolute;
+    width: 213px;
+    height: 28px;
+    left: 14px;
+    top: 29px;
+
+    inline-size: initial;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.06em;
+}
+.textP{
+    position: absolute;
+    left: 18px;
+    top: 73px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0.06em;
+}
+.imgCard{
+    position: absolute;
+    left: 200px;
+}
